@@ -1,0 +1,4 @@
+target:  
+  - url: "docs/"
+include: ["supervision"]
+reinit: "random-string"
